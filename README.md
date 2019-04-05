@@ -5,8 +5,9 @@ Questa operazione è necessaria per ridurre il carico di dati in fase di visuali
 Infatti un'ortoimmagine occupa molto spazio (anche più di 500 megabyte), quindi è stato fondamentale trovare un metodo per visualizzare ed analizzare tali fotogrammi nel modo più veloce possibile.\
 Immagini grandi sia ad 8 che 16 bit.
 Link ortoimmagini di prova:\
-https://s3.amazonaws.com/digitalglobe-marketing/product_samples/30cm/MapScaleOrtho_Madrid_Spain_30cm.zip  \
+\
+https://s3.amazonaws.com/digitalglobe-marketing/product_samples/30cm/MapScaleOrtho_Madrid_Spain_30cm.zip  
 
-https://s3.amazonaws.com/digitalglobe-marketing/product_samples/30cm/OR2A_Madrid_Spain_30cm.zip \
+https://s3.amazonaws.com/digitalglobe-marketing/product_samples/30cm/OR2A_Madrid_Spain_30cm.zip 
 
  
